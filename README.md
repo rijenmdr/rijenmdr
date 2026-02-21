@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Rijen Manandhar
 
-<!--
-**rijenmdr/rijenmdr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | React.js | Next.js | Laravel | AI Enthusiast  
 
-Here are some ideas to get you started:
+I build scalable, performance-optimized web applications with a strong focus on clean architecture, maintainability, and real-world business impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+
+- ⚛️ Specialized in React.js & Next.js (SSR / SSG / SEO)  
+- 🔥 Strong backend knowledge with Laravel & Node.js  
+- 📊 Performance optimization enthusiast (React Profiler, memoization, lazy loading, pagination strategies)  
+- 🌏 Based in Nepal  
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js (Hooks, Context API)
+- Next.js
+- TypeScript
+- Redux / Redux Saga / Reselect
+- Material UI / Ant Design
+- Styled Components
+- Tailwind CSS
+- SEO Optimization (Metadata, Sitemap, Robots.txt)
+
+### Backend
+- Laravel
+- Node.js
+- REST APIs
+- Authentication & Authorization
+- Redis (Caching & Performance)
+- Queue Jobs & Cron Scheduling
+
+### Dev Tools
+- Vite
+- Webpack
+- Babel
+- NPM / Yarn
+- Git & GitHub
+- ESLint & Prettier
+
+---
+
+## 📈 Currently Working On
+
+- AI integrations in directory-based platforms  
+- Advanced search with Typesense  
+- Scalable Laravel + Next.js infrastructure  
+- Improving system design skills  
+
+Let’s collaborate 🚀
