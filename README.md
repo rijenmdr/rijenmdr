@@ -45,11 +45,4 @@ I build scalable, performance-optimized web applications with a strong focus on 
 
 ---
 
-## 📈 Currently Working On
-
-- AI integrations in directory-based platforms  
-- Advanced search with Typesense  
-- Scalable Laravel + Next.js infrastructure  
-- Improving system design skills  
-
 Let’s collaborate 🚀
