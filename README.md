@@ -64,12 +64,15 @@ Currently at **Insight Workshop**, supporting a US-based client (Extra Space Sto
 
 ## GitHub stats
 
+## GitHub stats
+ 
 <div align="center">
-
-![Rijen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijenmdr&show_icons=true&hide_border=true&count_private=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijenmdr&layout=compact&hide_border=true&theme=default)
-
+![Rijen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijenmdr&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rijenmdr&layout=compact&hide_border=true&theme=transparent&langs_count=8)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rijenmdr&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+ 
 </div>
 
 ---
