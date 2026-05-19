@@ -11,7 +11,7 @@
 
 ## About me
 
-I'm a full-stack developer based in **Kathmandu, Nepal**, specializing in React/Next.js frontends and Laravel backends. I focus on clean architecture, performance optimization, and shipping things that actually work in production.
+I'm a full-stack developer based in **Kathmandu, Nepal**, specializing in React/Next.js frontends and NodeJs/ Laravel backends. I focus on clean architecture, performance optimization, and shipping things that actually work in production.
 
 Currently at **Insight Workshop**, supporting a US-based client (Extra Space Storage) across the full stack — from React UI to AWS infrastructure and Datadog monitoring.
 
