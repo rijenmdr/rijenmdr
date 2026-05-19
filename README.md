@@ -15,8 +15,6 @@ I'm a full-stack developer based in **Kathmandu, Nepal**, specializing in React/
 
 Currently at **Insight Workshop**, supporting a US-based client (Extra Space Storage) across the full stack — from React UI to AWS infrastructure and Datadog monitoring.
 
-- 🔭 Currently building a Nepali calendar app and a multi-service platform (Sewalo)
-- 🤖 Exploring AI agent architectures with the Anthropic API
 - 🌏 Open to international remote opportunities
 - 📬 Reach me at **rijenmdr47@gmail.com**
 
