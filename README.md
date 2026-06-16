@@ -48,24 +48,6 @@ Currently at **Insight Workshop**, supporting a US-based client (Extra Space Sto
 
 ---
 
-## Selected projects
-
-| Project | Stack | Highlights |
-|---|---|---|
-| 🗓 **Nepali Calendar App** | Laravel, Next.js | Tithi/Panchanga data pipeline, custom scraper, caching architecture |
-| 🌐 **Sewalo Platform** | Docker, DigitalOcean, Next.js, Laravel | Multi-service deployment, CI/CD, SSL, Nginx reverse proxy |
-| 🎟 **Event Ticketing System** | Laravel, React | HMAC-signed QR codes, race-condition-safe booking, Stripe payments |
-| 🛒 **E-commerce Payment Module** | Laravel, Next.js | Stripe, Univapay, Amazon Pay via polymorphic gateway interface |
-| 💬 **RAG Chatbot** | Gemini, Pinecone, AI SDK | Vector search, document ingestion, streaming responses |
-
----
-
-## GitHub stats
- 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rijenmdr&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
-
----
-
 ## Let's connect
 
 I'm always happy to talk about interesting problems, remote opportunities, or open source collaboration.
